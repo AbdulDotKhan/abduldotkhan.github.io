@@ -1,0 +1,12 @@
+# Site settings
+title: Abdul Khan
+email: akykhan95@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Musings of a dev enthusiast and aspiring businessman.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://abdulkhan.ca" # the base hostname & protocol for your site
+twitter_username: abdu1khan
+github_username:  abdu1khan
+
+# Build settings
+markdown: kramdown
