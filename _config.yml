@@ -1,12 +1,12 @@
 # Site settings
 title: Abdul Khan
-email: akykhan95@gmail.com
+email: akhan.hba2017@ivey.ca
 description: > # this means to ignore newlines until "baseurl:"
   "Node.js - the only real dev language!"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://abdulkhan.ca" # the base hostname & protocol for your site
-twitter_username: abdu1khan
-github_username:  abdu1khan
+twitter_username: AbdulDotKhan
+github_username:  AbdulDotKhan
 linkedin: https://ca.linkedin.com/in/abdulkhan95
 
 # Build settings
