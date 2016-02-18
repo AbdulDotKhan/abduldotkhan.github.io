@@ -56,3 +56,10 @@ a {
   border-bottom: 1px solid #f8f8f8;
   color: #f8f8f8;
 }
+
+
+@media screen and (max-width: 1080px) {
+    .terminal {
+        width: 800px;
+    }
+}
